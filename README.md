@@ -1,2 +1,2 @@
 # belajar-kolaborasi
-Latihan Melakukan Squash Changes#1
+Latihan Melakukan Squash Changes#2
